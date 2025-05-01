@@ -15,7 +15,7 @@
 </p>
 
 <h2 align='left'> #About me:</h2>
-<p align='left' color="grey" font-size="20px">Hey! I´m Caio <br/> Mobile Developer </br> I love Android, but also wanna learn Hybrid and Swift </p>
+<p align='left' color="grey" font-size="20px">Hey! I´m Caio <br/> Mobile Developer </br> I love Android, and KMM! </p>
 <p>
 
 ---
@@ -28,6 +28,8 @@
     </a>
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-E34F26?style=for-the-badge&logo=kotlin&logoColor=white"/>
     </a>
+    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+    </a>
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-3178C6?style=for-the-badge&logo=firebase&logoColor=white"/>
     </a>
     <a href="https://git-scm.com/">
@@ -36,10 +38,13 @@
     <a href="https://github.com/">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <a href="https://dev.mysql.com/">
-    <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <a href="https://github.com/">
+    <img alt="Coroutines" src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge"/>
     </a>
-    <img alt="Google APIs" src="https://img.shields.io/badge/GoogleAPI-4F0599?style=for-the-badge&logo=google&logoColor=white"/>
+    <a>
+    <img alt="KMP" src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge"/>
+    </a>
+    <img alt="Compose" src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"/>
     </a>
 </p>
 
